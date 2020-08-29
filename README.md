@@ -11,11 +11,11 @@ This collection contains scripts for
 - [Mobius Strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip).
 
 ## 8-figure
-
+filename: mobius.py
 This script generate a sequence of edges that topologically speaking is the 8 knot.
 
 I used the parametrization given by [wikipedia](https://en.wikipedia.org/wiki/Figure-eight_knot_(mathematics)).
 
 ## Mobius Strip
-
+filename: 8figure.py
 This is an adaptation(to run in Blender 2.80) of Bob's script to generate a mobius strip. You may find the original in this [post](https://blender.stackexchange.com/questions/82480/how-to-make-a-mobius-strip).
