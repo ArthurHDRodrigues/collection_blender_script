@@ -6,7 +6,7 @@ This is a small collection of minor Python scripts tha I've done to generate obj
 
 You may check how to run the scripts in the [official documentation site](https://docs.blender.org/api/current/info_quickstart.html#running-scripts).
 
-This collection contains scrupts to generate:
+This collection contains scripts for
 - [8-figure](https://en.wikipedia.org/wiki/Figure-eight_knot_(mathematics));
 - [Mobius Strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip).
 
